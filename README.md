@@ -1,6 +1,6 @@
+# Mockito Testing
 
-O projeto desse repositório foi desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos cursos de boas práticas de programação com Java.
+Este repositório tem como foco o estudo e a prática de testes unitários e de integração em Java utilizando Mockito com JUnit e SpringBootTesting.
 
-Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira)
+A API utilizada como base foi disponibilizada por [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) e serve como apoio para o aprendizado de testes — não sendo o foco principal do repositório.
 
----
